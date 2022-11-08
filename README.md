@@ -1,2 +1,2 @@
 # BootCampDIO
-<p>Desafio pojeto git<p>
+Desafio projeto GitHub
